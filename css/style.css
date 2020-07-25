@@ -15,7 +15,9 @@
 @import "mediaquerymx.css"screen and (max-width: 990px);
 @import "mediaquery.css"screen and (max-width: 768px);
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 * {
   margin: 0;
