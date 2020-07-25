@@ -6,11 +6,10 @@
     
     /**********pageheader***************/
     .disc-header{
-   
     font-size: 38px !important;
-    line-height: 1.2 !important;
-       
+    line-height: 1.2 !important; 
     }
+    .halfbg{padding-top:25px}
     
     .twobutton {
         flex-direction: column;
