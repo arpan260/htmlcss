@@ -29,7 +29,7 @@
         padding: 25px 0;
     }
     .recover-h1{
-        font-size:24px;}
+        font-size:20px;}
 
     .mac-image {
         width: 100%;
@@ -49,14 +49,14 @@
     /************Bg-info end**************/
       /************restore css**************/  
   h1.restore-header{
-      font-size:26px;}
+      font-size:25px;}
 
     /*****disktool wrapper start********/
     .card {
         width: 90%;
     }
       h1.diskh1{
-        font-size:30px}
+        font-size:25px}
 
     /*****************datawrapper css start**************/
 
