@@ -1,0 +1,219 @@
+@media (max-width: 768px) {
+
+    /************Nav-section***********/
+
+    /**********Nav-section***************/
+
+    /************Bg-info start*************/
+    .second {
+        padding: 25px 0;
+    }
+
+    .mac-image {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .three-infodiv {
+        display: block;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .info {
+        display: none;
+    }
+
+    /************Bg-info end**************/
+
+    /*****disktool wrapper start********/
+    .card {
+        width: 90%;
+    }
+
+    /*****************datawrapper css start**************/
+
+    .container-data {
+        padding: 50px 0;
+    }
+
+    .disktool-container1 {
+        padding-bottom: 20px;
+    }
+
+    .row {
+        padding: 50px 15px;
+    }
+
+    /*****************datawrapper css end************/
+
+    /**************AI-devices***********/
+    .android-bg,
+    .ios-bg {
+        display: none;
+    }
+
+    .androidios-row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .android {
+        border-right: none;
+        border-top: 1px solid rgba(255, 255, 255, 0.45);
+    }
+
+    /*************Ai devices end*************/
+
+    .ul-container {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    }
+
+    .ul-container li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .restore-inline {
+        position: absolute;
+        right: 0;
+    }
+
+    /************top casestart****************/
+
+    .cases-partone,
+    .cases-parttwo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    .cases-partone {
+        margin-bottom: 0;
+    }
+
+    .cases1 {
+        margin-right: 0;
+    }
+
+    .cases4 {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .cases2 {
+        margin: 20px 0;
+    }
+
+    .cases3 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .casecard {
+        width: 719px;
+        max-width: 100%;
+    }
+
+    .cases-paragraph {
+        width: 719px;
+        padding: 37px 0;
+    }
+
+    /**Row Two**/
+    .second-row {
+        margin-top: 15px;
+    }
+
+    /**Row Two end**/
+
+    /***************top casesend************/
+
+    .business-user {
+        display: block;
+    }
+
+    .pro-clients {
+        border: none;
+    }
+
+    hr {
+        border: 1px solid #f0f1f4;
+        margin: 0 15px;
+    }
+
+    .reviewers {
+        display: block;
+    }
+
+    .text-paragaph {
+        width: 642px;
+        max-width: 100%;
+    }
+
+    /***************rating-container************/
+    .companion-div {
+        width: 752px;
+        max-width: 100%;
+    }
+
+    .rating-info {
+        display: block;
+    }
+
+    .rating-header {
+        padding: 0 20px;
+    }
+
+    .rating-paragraph {
+        font-size: 24px;
+    }
+
+    .rating-button {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin: 50px auto 0;
+    }
+
+    .rating-button1 {
+        margin-right: 10px;
+    }
+
+    .rating-button2 {
+        margin-left: 10px;
+        margin-top: 0;
+    }
+
+    .build-info {
+        display: block;
+        padding: 100px 15px 0;
+    }
+
+    .requirement {
+        width: 100%;
+        border-bottom: 1px solid #1e2b36;
+        padding-bottom: 15px;
+    }
+
+    .rank {
+        border: none;
+        padding: 15px 0;
+        width: 100%;
+        border-bottom: 1px solid #1e2b36;
+    }
+
+    .release {
+        width: 100%;
+        padding-top: 15px;
+    }
+
+    #myBtn {
+        visibility: visible;
+    }
+}

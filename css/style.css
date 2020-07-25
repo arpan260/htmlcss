@@ -1,0 +1,32 @@
+@import url("navigation.css");
+@import url("pageheader.css");
+@import url("bg-info.css");
+@import url("disktoolwrapper.css");
+@import url("data-wrapper.css");
+@import url("restore.css");
+@import url("AI-devices.css");
+@import url("topcases.css");
+@import url("user.css");
+@import url("reviewers.css");
+@import url("rating.css");
+@import url("build-info.css");
+@import url("footer.css");
+@import url("icon-sidebar.css");
+@import "mediaquerymx.css"screen and (max-width: 990px);
+@import "mediaquery.css"screen and (max-width: 768px);
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  line-height: 24px;
+}
+
+
+a {
+  text-decoration: none;
+}

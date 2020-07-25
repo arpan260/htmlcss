@@ -1,0 +1,109 @@
+.footer-row {
+    width: 970px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0;
+}
+
+span.location {
+    font-size: 13px;
+    color: #222629;
+    font-weight: bolder;
+
+}
+
+.location-icon {
+    padding: 0;
+}
+
+span.copyright {
+    font-size: 13px;
+    color: rgba(108, 120, 148, .5);
+
+}
+
+.copyright-icon {
+    padding: 0;
+}
+
+.footer-social {
+    margin: 0 80px;
+}
+
+.footer-social ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+.footer-social ul li a img {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    margin: 0 5px;
+    background-color: #ccd6e0;
+
+}
+
+.reverseone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-link ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+.footer-link ul li {
+    padding: 0 5px;
+    font-size: 13px;
+    transition: 1s all;
+}
+
+.footer-link ul li a {
+    color: #4e9af2;
+
+}
+
+.footer-link ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer-social ul li img {
+    transition: 0.5s all;
+}
+
+.footer-social ul li img.facebook:hover {
+    background: #012574;
+}
+
+.footer-social ul li img.twitter:hover {
+    background: #1c9dec;
+}
+
+.footer-social ul li img.linkedin:hover {
+    background: #0b75b2;
+}
+
+.footer-social ul li img.youtube:hover {
+    background: #d12626;
+}
+
+#myBtn {
+    display: block;
+    position: fixed;
+    bottom: 4px;
+    right: 40px;
+    z-index: 99;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 171, 255);
+    padding: 8px;
+    border-radius: 8px;
+    visibility: hidden;
+}

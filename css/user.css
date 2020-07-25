@@ -1,0 +1,50 @@
+.user-container {
+    background: #ffffff;
+    border-top: 1px solid #f0f1f4;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.10);
+
+}
+
+.business-user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 970px;
+    max-width: 100%;
+    margin: 0 auto;
+    position: relative;
+    font-size: 15px;
+    line-height: 24px;
+    color: #23272a;
+
+}
+
+.bigger {
+    font-size: 26px;
+}
+
+.total-download {
+    width: 324px;
+    max-width: 100%;
+    min-height: 85px;
+    padding: 20px 15px 17px 15px;
+
+}
+
+.pro-clients {
+    width: 324px;
+    max-width: 100%;
+    padding: 20px 15px 17px 15px;
+    min-height: 85px;
+    border-right: 1px solid #f0f1f4;
+    border-left: 1px solid #f0f1f4;
+}
+
+
+
+.allusers {
+    width: 324px;
+    max-width: 100%;
+    padding: 20px 15px 17px 15px;
+    min-height: 85px;
+}

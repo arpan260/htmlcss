@@ -1,0 +1,52 @@
+.build-info {
+    width: 970px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: 0 auto;
+    color: #6c7894;
+    font-size: 15px;
+    padding-top: 100px;
+}
+
+.requirement {
+    width: 300px;
+    max-width: 100%;
+    padding: 0 12px;
+
+}
+
+.rank {
+    width: 300px;
+    max-width: 100%;
+    border-right: 1px solid #1e2b36;
+    border-left: 1px solid #1e2b36;
+    padding: 0 12px;
+}
+
+.rank-image {
+    position: relative;
+    top: 10px;
+}
+
+.release {
+    width: 300px;
+    max-width: 100%;
+    padding: 0 12px;
+}
+
+span.requirement-text {
+
+    color: #fff;
+}
+
+span.rank-text2 {
+
+    color: #fff;
+}
+
+span.release-text2 {
+
+    color: #fff;
+}

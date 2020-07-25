@@ -1,0 +1,50 @@
+.container-datawrapper {
+    background: #eaf1f8;
+}
+
+.row {
+    display: flex;
+    width: 970px;
+    max-width: 100%;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+
+.container-anchor {
+    color: #4e9af2;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.container-anchor:hover {
+    text-decoration: underline;
+}
+
+.bg-white {
+    background: #ffffff;
+}
+
+.mid-img {
+    padding-right: 20px;
+}
+
+.mid-info {
+    padding-left: 20px;
+}
+
+.container-img {
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.container-header {
+    margin-bottom: 18px;
+    color: #23272a;
+    opacity: 0.9;
+}
+
+.container-paragraph {
+    color: #6c7894;
+    font-size: 15px;
+
+}

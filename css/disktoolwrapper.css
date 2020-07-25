@@ -1,0 +1,163 @@
+/*****disktool wrapper start********/
+.disktool-wrap {
+    background-color: #1572e0;
+}
+
+.disktool-header {
+    text-align: center;
+    line-height: 30px;
+    padding-top: 40px;
+    margin-bottom: 50px;
+    color: #ffffff;
+    font-size: 17px;
+
+}
+
+.disktool-cardparagraph {
+    font-size: 15px;
+    color: #23272a;
+    font-weight: 400;
+    opacity: 0.9;
+}
+
+.disktool-cardheader {
+    font-size: 21px;
+    line-height: 30px;
+    padding: 40px 0 10px;
+    font-weight: lighter;
+    color: #23272a;
+    opacity: 1;
+}
+
+h1.diskh1 {
+    font-size: 36px;
+
+}
+
+p.diskp {
+    padding: 20px 10px;
+    opacity: 0.9;
+    width: 778px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+span.addtool {
+    font-weight: 600;
+    font-family: sans-serif;
+    opacity: 1;
+}
+
+.disktool-container1 {
+    background: #1572e0;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.card {
+    width: 260px;
+    min-height: 322px;
+    border-radius: 3px;
+    background: #ffffff;
+    position: relative;
+    padding: 8px 15px 30px;
+    text-align: center;
+    transition: 0.2s linear;
+}
+
+.card:hover {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.40);
+}
+
+.card2 {
+    margin: 0 45px;
+}
+
+span.free {
+    position: absolute;
+    top: 15px;
+    right: 6px;
+    text-transform: uppercase;
+    padding: 0 10px;
+    border-radius: 12px;
+    color: #3083e5;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+span.free1 {
+    background-color: #cceab0;
+}
+
+span.free2 {
+    background-color: #f3dcaa;
+}
+
+span.free3 {
+    background-color: #cfeeff;
+}
+
+span.free4 {
+    background-color: #ddd2f7;
+}
+
+span.free5 {
+    background-color: #b1e9f4;
+}
+
+span.free6 {
+    background-color: #fcc7bb;
+}
+
+.imgdisk {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.diskbutton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+
+.download-button {
+    color: white;
+    background: #1572e0;
+    padding: 15px;
+    margin: 8px;
+    border-radius: 6px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 1px solid;
+    transition: 0.5s;
+    margin-bottom: 20px;
+}
+
+.download-button:hover {
+    background: #ffffff;
+    color: #1572e0;
+}
+
+.info-small {
+    text-align: center;
+    color: #7ab7ff;
+    font-size: 15px;
+}
+
+.smallinfo-anchor {
+    color: white;
+    text-decoration: none;
+}
+
+.smallinfo-anchor:hover {
+    text-decoration: underline;
+}
+
+/*****disktool wrapper end********/

@@ -1,0 +1,203 @@
+/****************MEDIA QUERIES*************/
+
+@media (max-width: 990px) {
+
+    img {
+        max-width: 100%;
+    }
+
+    /*************disktool-wrapper css start*********/
+    .card {
+        width: 71%;
+    }
+
+    .card2 {
+        margin: 20px 0;
+    }
+
+    .card3 {
+        margin-left: 0;
+    }
+
+    .card4 {
+        margin-left: 0;
+    }
+
+    /***********disktool-wrapper css end************/
+
+    /**************datawrapper css start***********/
+
+    .row {
+        display: block;
+        width: 720px;
+        max-width: 100%;
+        padding: 50px 0px;
+        margin: 0 auto;
+    }
+
+    .container-paragraph {
+        width: 720px;
+        max-width: 100%;
+    }
+
+    .disc-paragraph {
+        padding: 25px;
+    }
+
+    .column-reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+    .container-img {
+        padding-left: 0px;
+    }
+
+    .mid-img {
+        padding-right: 0px;
+    }
+
+    .mid-info {
+        padding-left: 0px;
+    }
+
+    .container-data {
+        padding: 50px 0;
+    }
+
+    .disktool-container1 {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+
+    /*****************datawrapper css end***********/
+
+    /****************restore css start**********/
+    .ul-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .ul-container li {
+        display: flex;
+    }
+
+    /******************restore css start************/
+
+    /***********Ai devices****************/
+    .android {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .ios {
+        padding-top: 50px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    /**************Ai devices end**********/
+
+
+    /*****************top casestart***********/
+    .topcases-row-one {
+        flex-direction: column;
+    }
+
+
+    .casecard {
+        width: 345px;
+        max-width: 100%;
+
+    }
+
+    .cases2 {
+        margin-right: 0;
+    }
+
+    .cases3 {
+        margin-left: 0;
+    }
+
+    .cases-paragraph {
+        width: 345px;
+        max-width: 100%;
+    }
+
+    .cases-partone {
+        margin-bottom: 30px;
+    }
+
+    /**************top casesend*****************/
+
+
+
+    .text-paragaph {
+        width: 315px;
+        max-width: 100%;
+    }
+
+    .reviews-header {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    /**************Rating-container****************/
+
+    .companion-div {
+        padding: 0 15px;
+        text-align: center;
+        width: 345px;
+        max-width: 100%;
+    }
+
+    img.hidden-visible {
+        display: none;
+    }
+
+    img.hidden {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .rating-button {
+        display: flex;
+        flex-direction: column;
+        width: 345px;
+        max-width: 100%;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .rating-button1 {
+        margin-right: 0px;
+    }
+
+    .rating-button2 {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+
+    .footer-row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .reverseone {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 15px;
+
+    }
+
+    .footer-social ul li a img {
+        border-radius: 0;
+    }
+}

@@ -1,0 +1,34 @@
+.icon-sidebar{
+    position:fixed;
+    top:50%;
+    right: 20px;
+    transform:translateY(-50%);
+    background: white;
+    padding: 8px;
+    border-radius: 30px;
+    margin-left: 15px;
+    z-index: 111;
+}
+.icon-sidebar ul li{
+    list-style-type: none;
+    padding: 8px 0;
+}
+
+.fa-facebook{
+    color:#012574;
+   
+}
+.fa-twitter{
+    color:#1c9dec;
+   
+}
+
+.fa-linkedin{
+    color:#0b75b2;
+   
+}
+
+.fa-reddit{
+    color:red;
+   
+}

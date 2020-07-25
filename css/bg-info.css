@@ -1,0 +1,50 @@
+/*Bg-info start*/
+
+.bg-info {
+    background: url(../images/cata.png);
+    background-size: 100% 100%;
+}
+
+.info-image {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    margin-bottom: 120px;
+}
+
+.three-infodiv {
+    display: flex;
+    text-align: center;
+    padding-bottom: 60px;
+    color: #fff;
+    width: 970px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+h1 {
+    font-family: roboto;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+p.info-paragraph {
+    font-family: roboto;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.img-icon {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 30px;
+    border-radius: 40px;
+}
+
+.second {
+    padding: 0 20px;
+}
+
+/*Bg-info end*/
