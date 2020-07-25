@@ -6,9 +6,14 @@
     
     /**********pageheader***************/
     .disc-header{
-        font-size:38px;
-           
-    line-height:24px;}
+      
+        margin-bottom: 20px;
+    margin-top: 23px;
+    font-size: 38px !important;
+    line-height: 1.2 !important;
+       
+    }
+    
     .twobutton {
         flex-direction: column;
         align-items: center;
