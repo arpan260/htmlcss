@@ -6,7 +6,8 @@
     
     /**********pageheader***************/
     .disc-header{
-        font-size:3rem;
+        font-size:38px
+           }
     line-height:36px;}
     .twobutton {
         flex-direction: column;
@@ -26,7 +27,7 @@
         padding: 25px 0;
     }
     .recover-h1{
-        font-size:30px;}
+        font-size:24px;}
 
     .mac-image {
         width: 100%;
@@ -46,7 +47,7 @@
     /************Bg-info end**************/
       /************restore css**************/  
   h1.restore-header{
-      font-size:30px;}
+      font-size:26px;}
 
     /*****disktool wrapper start********/
     .card {
