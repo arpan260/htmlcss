@@ -6,7 +6,8 @@
     
     /**********pageheader***************/
     .disc-header{
-        font-size:3rem;}
+        font-size:3rem;
+    line-height:36px;}
     .twobutton {
         flex-direction: column;
         align-items: center;
