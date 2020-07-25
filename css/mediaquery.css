@@ -3,6 +3,10 @@
     /************Nav-section***********/
 
     /**********Nav-section***************/
+    
+    /**********pageheader***************/
+    .disc-header{
+        font-size:3rem;}
 
     /************Bg-info start*************/
     .second {
@@ -203,7 +207,7 @@
 
     .rank {
         border: none;
-        padding: 15px 0;
+        padding: 15px 12px;
         width: 100%;
         border-bottom: 1px solid #1e2b36;
     }
